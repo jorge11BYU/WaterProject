@@ -63,3 +63,5 @@ C:\Users\spenc\OneDrive - Brigham Young University\Winter 2026\IS 413\Programs\W
 C:\Users\spenc\OneDrive - Brigham Young University\Winter 2026\IS 413\Programs\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.pdb
 C:\Users\spenc\OneDrive - Brigham Young University\Winter 2026\IS 413\Programs\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\spenc\OneDrive - Brigham Young University\Winter 2026\IS 413\Programs\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\ref\WaterProject.API.dll
+C:\Users\spenc\OneDrive - Brigham Young University\Winter 2026\IS 413\Programs\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.sourcelink.json
+C:\Users\spenc\OneDrive - Brigham Young University\Winter 2026\IS 413\Programs\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
