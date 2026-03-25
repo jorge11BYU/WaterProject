@@ -578,11 +578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spenc\\OneDrive - Brigham Young University\\Winter 2026\\IS 413\\Programs\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
+      "projectUniqueName": "C:\\Users\\spenc\\source\\repos\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
       "projectName": "WaterProject.API",
-      "projectPath": "C:\\Users\\spenc\\OneDrive - Brigham Young University\\Winter 2026\\IS 413\\Programs\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
+      "projectPath": "C:\\Users\\spenc\\source\\repos\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
       "packagesPath": "C:\\Users\\spenc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spenc\\OneDrive - Brigham Young University\\Winter 2026\\IS 413\\Programs\\WaterProject\\backend\\WaterProject.API\\obj\\",
+      "outputPath": "C:\\Users\\spenc\\source\\repos\\WaterProject\\backend\\WaterProject.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
